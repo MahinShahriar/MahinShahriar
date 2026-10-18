@@ -1,22 +1,31 @@
 
-<h1 align="center">Hi, I'm Mohammad Shahriar Mahin</h1>
+<h1 align="center">Hi, I'm Mahin Shahriar</h1>
 
-<h3 align="center">ERPNext Developer | Python Backend Developer</h3>
+<h3 align="center">Python Developer | Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Business+Applications;Frappe+%26+ERPNext+Development;Python+Backend+%26+REST+APIs;Full-Stack+Web+Development" alt="Animated developer introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/mahinshahriar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://mahinverse.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+</p>
+
+---
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MahinShahriar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahinShahriar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MahinShahriar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -111,19 +120,6 @@ Fast learner passionate about clean architecture, database optimization, and wri
 - Automated business processes to improve operational efficiency.
 - Troubleshot application bugs and performance issues.
 - Collaborated with senior developers and stakeholders to deliver reliable software solutions.
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MahinShahriar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahinShahriar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MahinShahriar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
 
 ---
 
