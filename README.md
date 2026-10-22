@@ -20,12 +20,18 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MahinShahriar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahinShahriar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <a href="https://github.com/MahinShahriar">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MahinShahriar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/MahinShahriar">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahinShahriar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Most used languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MahinShahriar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <a href="https://github.com/MahinShahriar">
+    <img src="https://streak-stats.demolab.com?user=MahinShahriar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  </a>
 </p>
 
 ---
